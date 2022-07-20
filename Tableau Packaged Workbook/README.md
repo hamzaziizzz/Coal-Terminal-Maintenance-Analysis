@@ -1,1 +1,1 @@
-
+This folder contains **Coal Terminal Maintenance.twbx** (_Tableau Packaged Workbook_) and, **Coal-Terminal.hyper** (_Tableau Data Extract_) on which the tableau dashboard works. You can download this folder to run the dashboard on your system.
