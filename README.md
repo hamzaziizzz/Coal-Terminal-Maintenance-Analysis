@@ -28,15 +28,15 @@ Your task is to find out which of the 5 machines have exceeded this level and cr
 <br>
 The coal from the Coal Mines is carried into trains which are several kilometers long to Coal Terminals, which are usually situated at coastline. Then they are further carried into ships to deliver the coal to several companies, governments across the oceans.
 <p align="center">
-  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/CoalTerminal.png" height="200"> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/TrainCoal.png" height="200"> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/Train.png" height="200">
+  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/CoalTerminal.png" height="100"> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/TrainCoal.png" height="100"> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/Train.png" height="100">
 </p>
 <br>
 <p align="center">
   <i>Processing of coal at Coal Terminal</i> <br>
-  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/TerminalOperation.png" height="250"> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/HayPoint.png" height="250">
+  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/TerminalOperation.png" height="100"> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/HayPoint.png" height="100">
 </p>
 <br>
 <p align="center">
@@ -47,9 +47,9 @@ The coal from the Coal Mines is carried into trains which are several kilometers
 
 ### Images of Stacker, Reclaimer and Stacker-Reclaimer
 <p align="center">
-  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/Stacker.png" height="200"> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/Reclaimer.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/Stacker-Reclaimer.jpg" height="200">
+  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/Stacker.png" height="100"> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/Reclaimer.jpg" height="100"> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/Stacker-Reclaimer.jpg" height="100">
 </p>
 
 ## Coal Terminal Maintenance Analysis Report
