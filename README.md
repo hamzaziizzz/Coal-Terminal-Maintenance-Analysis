@@ -57,21 +57,3 @@ The coal from the Coal Mines is carried into trains which are several kilometers
 [Link for Reprt in PPT format](https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/Report/Coal%20Terminal%20Maintenance%20Analysis.pptx)
 <br>
 [Link for Interactive Tableau Workbook](https://public.tableau.com/app/profile/hamza.aziz/viz/CoalTerminalMaintenanceAnalysis_16582965604470/Report)
-
-### Reclaimer-1 (RL1) Analysis
-![Reclaimer-1 (RL1) Analysis](https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/RL1%20Dashboard.png)
-
-### Reclaimer-2 (RL2) Analysis
-![Reclaimer-2 (RL2) Analysis](https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/RL2%20Dashboard.png)
-
-### StackerReclaimer-1 (SR1) Analysis
-![StackerReclaimer-1 (SR1) Analysis](https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/SR1%20Dashboard.png)
-
-### StackerReclaimer-4A (SR4A) Analysis
-![StackerReclaimer-4A (SR4A) Analysis](https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/SR4A%20Dashboard.png)
-
-### StackerReclaimer-6 (SR6) Analysis
-![StackerReclaimer-6 (SR6) Analysis](https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/SR6%20Dashboard.png)
-
-### Summary
-![Summary](https://github.com/hamzaziizzz/Coal-Terminal-Maintenance-Analysis/blob/main/images/Analysis%20Dashboard.png)
